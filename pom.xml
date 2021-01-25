@@ -27,6 +27,7 @@
   <dependencies>
 
 <!-- This is a new comment, very important -->
+<!-- Yet another comment, interesting... -->
 
 	<!-- https://mvnrepository.com/artifact/org.junit/junit5-api -->
 	  <dependency>
